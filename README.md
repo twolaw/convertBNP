@@ -1,3 +1,8 @@
+Projet repris par https://github.com/CdeMills/convertBNP
+--------------------------------------------------
+
+_Ce code ne fonctionne plus sur les nouveaux relevés de compte et n'est plus mis à jour. Il faut maintenant utiliser le [fork de CdeMills](https://github.com/CdeMills/convertBNP) qui est maintenu à jour._
+
 Description
 -----------
 
